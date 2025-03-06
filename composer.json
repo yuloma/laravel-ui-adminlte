@@ -17,12 +17,11 @@
     "require": {
         "php": "^8.2",
         "illuminate/support": "^12.0",
-        "infyomlabs/laravel-generator-helpers": "dev-update-to-laravel-12",
+        "infyomlabs/laravel-generator-helpers": "dev-update-to-laravel-12@dev",
         "laravel/ui": "^4.2"
     },
     "repositories": [
         {
-           
             "url": "https://github.com/yuloma/laravel-generator-helpers",
             "type": "git"
         }
